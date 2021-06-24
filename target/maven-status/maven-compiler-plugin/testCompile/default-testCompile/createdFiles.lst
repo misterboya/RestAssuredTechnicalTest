@@ -1,0 +1,4 @@
+com/restassured/stepdefinitions/ListResourceApiSteps.class
+com/restassured/runner/TestRunner.class
+com/restassured/stepdefinitions/RegisterApiSteps.class
+com/restassured/stepdefinitions/LoginApiSteps.class
